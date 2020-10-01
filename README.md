@@ -1,5 +1,6 @@
-# IBM-Recommendation---Udacity
-Udacity project to complete the dsnd program
+# DSND-UDACITY-PROGRAM
+Data Scientist Nanodegree.
+
 
 this project includes 2 files:
 1- Recommendations_with_IBM.ipynb
